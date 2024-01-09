@@ -1,6 +1,5 @@
 package com.abin.mallchat.common.chat.controller;
 
-
 import com.abin.mallchat.common.chat.domain.dto.MsgReadInfoDTO;
 import com.abin.mallchat.common.chat.domain.vo.request.*;
 import com.abin.mallchat.common.chat.domain.vo.response.ChatMessageReadResp;
